@@ -1,5 +1,5 @@
 # Tbomb
-This Tools Is Only Bd " Banglalink " Number SMS Bomber Tools.
+This Tools Is Only Bd " Banglalink " Number SMS Bombing Tools.
 # Install Termux
 $ apt upgrade -y
 $ apt upgrade -y

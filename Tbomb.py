@@ -76,12 +76,12 @@ def word (z):
 while True:
   us = input("\033[0;32;40mUSERNAME: ")
   
-  if us == 'xploiter':
+  if us == 'Cyber 71':
   
     while True:
       psw = input("\033[0;31;40mPASSWORD: ")
     
-      if psw == 'fatasms':
+      if psw == 'Swapon':
         
         while True:
           logoFS='''
@@ -106,7 +106,7 @@ while True:
 
           logop(logoFS)
           word(chose)
-          inpo =''' FATA_SMS>>'''
+          inpo =''' TBOMB_SMS>>'''
           x4 = input('\033[1;32;40m'"∆ "+inpo+" :")
           if x4 == '1':
             
@@ -115,8 +115,8 @@ while True:
              sms = '''#########################################
 NOTE: THIS TOOL IS FOR BANGLADESH ONLY!!
 DISCLAIMER: THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY. IF YOU HARM OTHERS, I WILL NOT TAKE ANY RESPONSIBILITY
-Youtube : https://youtube.com/channel/UCQxsdKKHhf1zYpGdqsOKonQ
-Facebook: https://www.facebook.com/sab.bir936
+Youtube : https://youtube.com/channel/TechnologyBoy
+Facebook: https://www.facebook.com/swapon06
 ######################################### '''
              word(sms)
 

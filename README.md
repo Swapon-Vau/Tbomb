@@ -11,3 +11,11 @@ $ git clone https://github.com/Swapon-Vau/Tbomb.git
 $ ls
 $ cd Tbomb
 $ python Tbomb.py
+# User Name And Password
+--------------------------------
+User Name: Cyber 71
+Password : Swapon
+--------------------------------
+# 2nd Input Box
+Input : SWAPON
+--------------------------------

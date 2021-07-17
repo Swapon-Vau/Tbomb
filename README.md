@@ -32,5 +32,6 @@ $ pip install requests
 $ pip install pytube
 $ git clone https://github.com/Swapon-Vau/Tbomb.git
 $ ls
-$ cd Stbm
+$ cd Tbomb
+$ ls
 $ python Stbm.py

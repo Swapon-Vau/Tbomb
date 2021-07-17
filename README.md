@@ -1,4 +1,4 @@
-# (1) Tbomb
+# (1) Tbomb Tools
 This Tools Is Only Bd " Banglalink " Number SMS Bombing Tools.
 # Install Termux
 $ apt upgrade -y
@@ -21,4 +21,16 @@ Input : SWAPON
 --------------------------------
 
 
-# (2) Smtb
+# (2) Stbm Tools
+This Tools Is Any Number SMS Bombing Tools.
+# Install Termux
+$ apt upgrade -y
+$ apt upgrade -y
+$ apt install git -y
+$ apt install python -y
+$ pip install requests
+$ pip install pytube
+$ git clone https://github.com/Swapon-Vau/Tbomb.git
+$ ls
+$ cd Stbm
+$ python Stbm.py

@@ -1,4 +1,4 @@
-# Tbomb
+# (1) Tbomb
 This Tools Is Only Bd " Banglalink " Number SMS Bombing Tools.
 # Install Termux
 $ apt upgrade -y
@@ -19,3 +19,6 @@ Password : Swapon
 # 2nd Input Box
 Input : SWAPON
 --------------------------------
+
+
+# (2) Smtb

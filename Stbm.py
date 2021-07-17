@@ -13,11 +13,11 @@ print("""
 ╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝░░╚═╝╚═╝░░░░░░╚════╝░╚═╝░░╚══╝
 #######################################################
 Name      : Stbm                             
-Developer : Swapon-Vau
-Github    : Swapon-Vau
+Developer : Md Swapon Mia
+Github    : @Swapon-Vau
 Youtube   : https://m.youtube.com/TechnologyBoy
-Facebook  : https://www.facebook.com/Swapon06                                                      
-version   :1.0                      
+Facebook  : https://www.facebook.com/Swapon06
+version   : 1.0                                                                       
 #######################################################
 """)
 

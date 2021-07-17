@@ -17,7 +17,7 @@ Developer : Md Swapon Mia
 Github    : @Swapon-Vau
 Youtube   : https://m.youtube.com/TechnologyBoy
 Facebook  : https://www.facebook.com/Swapon06
-version   : 1.0                                                                       
+version   : 1.0
 #######################################################
 """)
 
